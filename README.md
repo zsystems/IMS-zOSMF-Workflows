@@ -1,5 +1,5 @@
 # IMS-zOSMF-Workflows
-This repository contains sample z/OSMF Workflows that can be used to provision full IMS systems and also to provision FastPath databases on an existing IMS 
+This repository contains sample z/OSMF Workflows that can be used to provision full IMS systems and also to provision FastPath databases on an existing IMS.
 
 
 ###provision_system.zip 
